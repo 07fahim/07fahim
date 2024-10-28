@@ -28,6 +28,8 @@
   </p>
 </body>
 </html>
+<!-- Fancy Badges Section with Animation -->
+<h3 align="center">🚀 About Me</h3>
 <!-- About Me Text with Fade In Effect -->
 <p align="center" style="font-size: 1.2rem; animation: fadeInUp 2s;">
   Hi, I'm Fahim Faiyaz—a dedicated Flutter App Developer with a focus on Dart, Object-Oriented Programming, and a growing expertise in Machine Learning and Deep Learning. I recently graduated with a degree in Computer Science Engineering, and I’m passionate about creating captivating, user-friendly applications. My goal is to combine my technical knowledge with creativity to deliver seamless and engaging mobile experiences. Excited to connect, collaborate, and keep learning!

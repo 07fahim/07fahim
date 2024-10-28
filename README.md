@@ -29,6 +29,12 @@
 </body>
 </html>
 
+<!-- Blue to Green Gradient Animation under Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:28A745&height=100&section=header&animation=fadeIn" style="animation: bounceInDown 3s;" />
+</p>
+
+
 <!-- Fancy Badges Section with Animation -->
 <h3 align="center">🚀 About Me</h3>
 <!-- About Me Text with Fade In Effect -->

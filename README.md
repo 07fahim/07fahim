@@ -29,10 +29,6 @@
 </body>
 </html>
 
-<!-- Blue to Green Gradient Animation under Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:28A745&height=100&section=header&animation=fadeIn" style="animation: bounceInDown 3s;" />
-</p>
 
 
 <!-- Fancy Badges Section with Animation -->
@@ -42,7 +38,7 @@
   Hi, I'm Fahim Faiyaz—a dedicated Flutter App Developer with a focus on Dart, Object-Oriented Programming, and a growing expertise in Machine Learning and Deep Learning. I recently graduated with a degree in Computer Science Engineering, and I’m passionate about creating captivating, user-friendly applications. My goal is to combine my technical knowledge with creativity to deliver seamless and engaging mobile experiences. Excited to connect, collaborate, and keep learning!
 
 
-
+<p align="center" style="font-size: 1.2rem; animation: fadeInUp 2.5s;">
 - 🔭 I’m currently working on **Animated UI Design.**
 
 - 🌱 I’m currently learning **Rest Api,GetX State Management.**

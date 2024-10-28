@@ -118,11 +118,12 @@
 <!-- Final Outro with Blue to Green Typing Animation -->
 <h3 align="center">Thank you for visiting!</h3>
 <!-- Typing Animation Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=800&color=00D9FF&vCenter=true&width=550&lines=Let's+collaborate!;Reach+me+anytime!" 
+<p align="center" style="display: flex; justify-content: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=9B5DE5&center=true&vCenter=true&width=550&lines=Let's+collaborate!;Reach+me+anytime!" 
        alt="Let's collaborate!" 
-       style="animation: fadeInUp 3s; text-align: center;" />
+       style="animation: fadeInUp 3s;" />
 </p>
+
 
 <!-- Blue Gradient Animation Footer -->
 <p align="center">

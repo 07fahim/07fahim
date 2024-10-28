@@ -29,7 +29,7 @@
 </body>
 </html>
 
-
+---
 
 <!-- Fancy Badges Section with Animation -->
 <h3 align="center">🚀 About Me</h3>
@@ -37,21 +37,15 @@
 <p align="center" style="font-size: 1.2rem; animation: fadeInUp 2s;">
   Hi, I'm Fahim Faiyaz—a dedicated Flutter App Developer with a focus on Dart, Object-Oriented Programming, and a growing expertise in Machine Learning and Deep Learning. I recently graduated with a degree in Computer Science Engineering, and I’m passionate about creating captivating, user-friendly applications. My goal is to combine my technical knowledge with creativity to deliver seamless and engaging mobile experiences. Excited to connect, collaborate, and keep learning!
 
-
+---
 <p align="center" style="font-size: 1.2rem; animation: fadeInUp 2.5s;">
-- 🔭 I’m currently working on **Animated UI Design.**
-
-- 🌱 I’m currently learning **Rest Api,GetX State Management.**
-
-- 💬 Ask me about **Dart,OOP,UI Design,ML,DL.**
-
-- 📫 How to reach me **faiyazfahim743@gmail.com.**
-
-<h3 align="center">💼 Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/https://www.facebook.com/fahim.faiyaz.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fahim.faiyaz.16/" height="30" width="40" /></a>
+  - 🔭 I’m currently working on <strong>Animated UI Design</strong>.<br><br>
+  - 🌱 I’m currently learning <strong>REST API, GetX State Management</strong>.<br><br>
+  - 💬 Ask me about <strong>Dart, OOP, UI Design, ML, DL</strong>.<br><br>
+  - 📫 How to reach me: <strong>faiyazfahim743@gmail.com</strong>
 </p>
 
+---
 <h3 align="center">⚡ My Skills</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -98,7 +92,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=07fahim&label=Profile%20views&color=0e75b6&style=flat" alt="07fahim" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07fahim" alt="07fahim" /></a> </p>
+---
+<h3 align="center">💼 Connect with me:</h3>
+<p align="center">
+<a href="https://fb.com/https://www.facebook.com/fahim.faiyaz.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fahim.faiyaz.16/" height="30" width="40" /></a>
+</p>
 
+---
 <h3 align="center">🔥 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=07fahim&show_icons=true&locale=en&layout=compact" alt="07fahim" /></p>
 

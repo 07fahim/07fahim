@@ -106,8 +106,10 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=07fahim" alt="07fahim" />
-</p>
+
 ---
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=07fahim&label=Profile%20views&color=0e75b6&style=flat" alt="07fahim" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07fahim" alt="07fahim" /></a> </p>
@@ -115,4 +117,14 @@
 ---
 <!-- Final Outro with Blue to Green Typing Animation -->
 <h3 align="center">Thank you for visiting!</h3>
+<!-- Typing Animation Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=800&color=00D9FF&vCenter=true&width=550&lines=Let's+collaborate!;Reach+me+anytime!" alt="Thank you" style="animation: fadeInUp 3s; text-align: center;" />
+</p>
+
+<!-- Gradient Footer with Blue and Green Colors -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00D9FF&height=100&section=footer&animation=fadeIn" style="animation: bounceInUp 2s;" />
+</p>
+
 

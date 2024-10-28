@@ -126,7 +126,7 @@
 
 <!-- Blue Gradient Animation Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00D9FF&height=100&section=footer&animation=fadeIn" 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,100:00BBF9&height=100&section=header&animation=fadeIn"  
        alt="Waving Gradient Footer" 
        style="animation: bounceInUp 2s;" />
 </p>

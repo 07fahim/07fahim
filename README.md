@@ -119,12 +119,17 @@
 <h3 align="center">Thank you for visiting!</h3>
 <!-- Typing Animation Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=800&color=00D9FF&vCenter=true&width=550&lines=Let's+collaborate!;Reach+me+anytime!" alt="Thank you" style="animation: fadeInUp 3s; text-align: center;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=800&color=00D9FF&vCenter=true&width=550&lines=Let's+collaborate!;Reach+me+anytime!" 
+       alt="Let's collaborate!" 
+       style="animation: fadeInUp 3s; text-align: center;" />
 </p>
 
-<!-- Gradient Footer with Blue and Green Colors -->
+<!-- Blue Gradient Animation Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00D9FF&height=100&section=footer&animation=fadeIn" style="animation: bounceInUp 2s;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00D9FF&height=100&section=footer&animation=fadeIn" 
+       alt="Waving Gradient Footer" 
+       style="animation: bounceInUp 2s;" />
 </p>
+
 
 

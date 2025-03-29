@@ -14,7 +14,7 @@
 
   <!-- Typing Animation for Profession -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=9B5DE5&center=true&vCenter=true&width=700&height=50&lines=AI/ML+Engineer;Deep+Learning+%26+Computer+Vision;Data+Scientist;NLP+Enthusiast;Predictive+Analytics+Researcher;Let's+Build+Something+Great!" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=9B5DE5&center=true&vCenter=true&width=700&height=50&lines=AI/ML+Engineer;Deep+Learning+%26+Computer+Vision;Data+Scientist;NLP+Enthusiast;GEN+AI+Enthusiast;Let's+Build+Something+Great!" 
          alt="Typing SVG" 
          style="display: inline-block; animation: fadeInDown 2s;" />
   </p>

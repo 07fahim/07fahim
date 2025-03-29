@@ -30,15 +30,15 @@
   <h3 align="center">🚀 About Me</h3>
   <p align="center" style="font-size: 1.2rem; animation: fadeInUp 2s;">
     I'm Fahim Faiyaz, an AI/ML Engineer & Data Scientist with expertise in deep learning, computer vision, and NLP. 
-    My passion lies in developing impactful AI solutions and advancing research in predictive modeling. 
-    Skilled in TensorFlow, PyTorch, and Ultralytics, I specialize in object detection, medical AI, and Explainable AI (XAI).
-    My recent work includes leveraging YOLOv10 and VGG19-LSTM for medical image analysis.
+  My passion lies in developing impactful AI solutions and advancing research in predictive modeling. 
+  Skilled in TensorFlow, PyTorch, and Ultralytics, I specialize in object detection, medical AI, and Explainable AI (XAI). 
+  Additionally, I have experience in **Flutter mobile app development**, building cross-platform applications with modern UI/UX.
   </p>
 
   <p align="center" style="font-size: 1.2rem; animation: fadeInUp 2.5s;">
     - 🔭 I’m currently working on <strong>Credit Integrated Credit Risk Analysis System</strong>.<br><br>
     - 🌱 I’m currently learning <strong>Genrative AI & Advanced NLP Techniques</strong>.<br><br>
-    - 💬 Ask me about <strong>Machine Learning, Computer Vision, Predictive Analytics</strong>.<br><br>
+    - 💬 Ask me about <strong>Machine Learning, Computer Vision, Predictive Analytics and Flutter Development</strong>.<br><br>
     - 📫 How to reach me: <strong>faiyazfahim743@gmail.com</strong>
   </p>
 

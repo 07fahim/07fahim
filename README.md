@@ -37,7 +37,7 @@
 
   <p align="center" style="font-size: 1.2rem; animation: fadeInUp 2.5s;">
     - 🔭 I’m currently working on <strong>Credit Integrated Credit Risk Analysis System</strong>.<br><br>
-    - 🌱 I’m currently learning <strong>Genrative AI & Advanced NLP Techniques</strong>.<br><br>
+    - 🌱 I’m currently learning <strong>Generative AI & Advanced NLP Techniques</strong>.<br><br>
     - 💬 Ask me about <strong>Machine Learning, Computer Vision, Predictive Analytics and Flutter Development</strong>.<br><br>
     - 📫 How to reach me: <strong>faiyazfahim743@gmail.com</strong>
   </p>

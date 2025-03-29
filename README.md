@@ -1,4 +1,3 @@
-![2f3fd316-f05f-40f9-b120-04faf09d8617-237](https://github.com/user-attachments/assets/4d850372-3a89-483a-89c7-e2f258012594)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +14,7 @@
 
   <!-- Typing Animation for Profession -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=9B5DE5&center=true&vCenter=true&width=600&height=50&lines=Flutter+UI+Designer;GetX+State+Management+Learner;Responsive+UI+Specialist;AI+ML+%26+DL+Enthusiast;Let's+Build+Something+Great!" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=9B5DE5&center=true&vCenter=true&width=700&height=50&lines=AI/ML+Engineer;Deep+Learning+%26+Computer+Vision;Data+Scientist;NLP+Enthusiast;Predictive+Analytics+Researcher;Let's+Build+Something+Great!" 
          alt="Typing SVG" 
          style="display: inline-block; animation: fadeInDown 2s;" />
   </p>
@@ -26,24 +25,64 @@
          alt="Waving Gradient Animation"
          style="display: inline-block; animation: bounceInDown 3s;" />
   </p>
+
+  <!-- About Me Section -->
+  <h3 align="center">🚀 About Me</h3>
+  <p align="center" style="font-size: 1.2rem; animation: fadeInUp 2s;">
+    I'm Fahim Faiyaz, an AI/ML Engineer & Data Scientist with expertise in deep learning, computer vision, and NLP. 
+    My passion lies in developing impactful AI solutions and advancing research in predictive modeling. 
+    Skilled in TensorFlow, PyTorch, and Ultralytics, I specialize in object detection, medical AI, and Explainable AI (XAI).
+    My recent work includes leveraging YOLOv10 and VGG19-LSTM for medical image analysis.
+  </p>
+
+  <p align="center" style="font-size: 1.2rem; animation: fadeInUp 2.5s;">
+    - 🔭 I’m currently working on <strong>Deep Learning for Brain Tumor Detection</strong>.<br><br>
+    - 🌱 I’m currently learning <strong>Time-Series Forecasting & Advanced NLP Techniques</strong>.<br><br>
+    - 💬 Ask me about <strong>Machine Learning, Computer Vision, Predictive Analytics</strong>.<br><br>
+    - 📫 How to reach me: <strong>faiyazfahim743@gmail.com</strong>
+  </p>
+
+  <!-- Tech Stack Section -->
+  <h3 align="center">🛠️ Tech Stack</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  </p>
+
+  <!-- Publications & Research -->
+  <h3 align="center">📄 Research & Publications</h3>
+  <p align="center">
+    - 🧠 <strong>Deep Learning for Brain Tumor Detection Leveraging YOLOv10</strong> - IEEE RAAICON 2024<br>
+    - 🔬 <strong>A Hybrid Deep Learning Approach For Brain Tumor Detection Using XAI with GradCAM</strong> - ICCIT 2024<br>
+    - 🍊 <strong>Mango Ripeness Classification with Grad-CAM</strong> - Explainable AI in Agriculture
+  </p>
+
+  <!-- Projects Section -->
+  <h3 align="center">🚀 Projects</h3>
+  <p align="center">
+    - 🏥 <strong><a href="https://github.com/07fahim/Yolov10_TumorDetection">YOLOv10 for Brain Tumor Detection</a></strong><br>
+    - 🧠 <strong><a href="https://github.com/07fahim/Brain-Tumor-detection-Hybrid-Model-with-XAI-">Hybrid Deep Learning Model for Brain Tumor</a></strong><br>
+    - 🍊 <strong><a href="https://github.com/07fahim/Hybrid-Model-Mango-Ripeness-Classificaton-with-GradCam">Mango Ripeness Classification with GradCAM</a></strong>
+  </p>
+
+  <!-- Connect with Me -->
+  <h3 align="center">🌎 Connect with Me</h3>
+  <p align="center">
+    <a href="http://www.linkedin.com/in/fahim-faiyaz">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/07fahim">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </p>
 </body>
 </html>
 
----
-
-<!-- Fancy Badges Section with Animation -->
-<h3 align="center">🚀 About Me</h3>
-<!-- About Me Text with Fade In Effect -->
-<p align="center" style="font-size: 1.2rem; animation: fadeInUp 2s;">
-Hi, I'm Fahim Faiyaz—a dedicated Flutter App Developer with a focus on Dart, Object-Oriented Programming, and a growing expertise in Machine Learning and Deep Learning. I recently graduated with a degree in Computer Science Engineering, and I’m passionate about creating captivating, user-friendly applications. Alongside app development, I actively contribute to the Machine Learning and Deep Learning communities, staying up-to-date with advancements and applying innovative approaches to real-world challenges. My goal is to combine my technical knowledge with creativity to deliver seamless and engaging mobile experiences.
-
----
-<p align="center" style="font-size: 1.2rem; animation: fadeInUp 2.5s;">
-  - 🔭 I’m currently working on <strong>Animated UI Design</strong>.<br><br>
-  - 🌱 I’m currently learning <strong>REST API, GetX State Management</strong>.<br><br>
-  - 💬 Ask me about <strong>Dart, OOP, UI Design, ML, DL</strong>.<br><br>
-  - 📫 How to reach me: <strong>faiyazfahim743@gmail.com</strong>
-</p>
 
 ---
 <h3 align="center">⚡ My Skills</h3>
